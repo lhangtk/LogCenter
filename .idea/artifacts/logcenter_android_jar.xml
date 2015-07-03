@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logcenter_android:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/logcenter_android_jar</output-path>
+    <root id="archive" name="logcenter_android.jar">
+      <element id="module-output" name="logcenter_android" />
+    </root>
+  </artifact>
+</component>

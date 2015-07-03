@@ -1,0 +1,11 @@
+统计时长的Activity：（埋点的Activity）
+MyActivity
+TestActivity
+……
+
+
+
+统计操作埋点：（统计操作：埋点位置）
+下载次数：TestActivity
+上传次数：MyActivity,TestActivity
+……
